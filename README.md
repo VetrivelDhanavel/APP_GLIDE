@@ -1,6 +1,5 @@
 # IMDB API TESTS :
 
-# IMDB API Tests
 
 This project contains multiple test classes for testing various IMDB APIs using the RapidAPI platform. The tests utilize the `unittest` framework and the `requests` library.
 
